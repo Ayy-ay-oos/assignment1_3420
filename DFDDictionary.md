@@ -5,6 +5,7 @@
 
 # Processes
 **Scanner:** Fossology scanner
+
 **Scan Package License / Query NIST Database:** Send package to fossology to retrieve license infomration and query NIST database using package name
 
 **Request OSS Software Information:** Queries OSS Software Components data store for relevant license and vulnerability information
